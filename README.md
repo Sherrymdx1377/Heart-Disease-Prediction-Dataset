@@ -1,54 +1,57 @@
 # Heart Disease Prediction using Machine Learning
 
-Introduction
+# Introduction
 Welcome to the Heart Disease Prediction GitHub repository! This project provides a detailed analysis of the Heart Disease Prediction Dataset using various machine learning algorithms. The document covers crucial aspects such as data preprocessing, exploratory data analysis, and the implementation of classifiers like Support Vector Machine, Decision Tree, Logistic Regression, and Random Forest.
 
-Overview
+# Overview 
+
 Dataset: The project utilizes the Heart Disease Prediction Dataset.
 Objective: Predicting heart disease based on health parameters.
 Tools and Libraries: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
-Contents
-Data Preprocessing
 
-Handling missing values
-Mapping categorical variables
-Transformation and scaling using PCA and Standard Scaler
-Exploratory Data Analysis (EDA)
+# Contents
 
-Insights into the dataset
-Visualizations using Matplotlib and Seaborn
-Machine Learning Implementation
+1. Data Preprocessing
+- Handling missing values
+- Mapping categorical variables
+- Transformation and scaling using PCA and Standard Scaler
 
-Support Vector Machine
-Decision Tree
-Logistic Regression
-Random Forest
-Evaluation Metrics
+2. Exploratory Data Analysis (EDA)
+- Insights into the dataset
+- Visualizations using Matplotlib and Seaborn
 
-Confusion matrices
-Accuracy assessments for training and test sets
-Code Structure
+3. Machine Learning Implementation
+- Support Vector Machine
+- Decision Tree
+- Logistic Regression
+- Random Forest
 
-Understand the organization of the codebase
-Data Preprocessing
+4.Evaluation Metrics
+- Confusion matrices
+- Accuracy assessments for training and test sets
+
+5. Code Structure
+- Understand the organization of the codebase
+
+# Data Preprocessing:
 The dataset undergoes thorough preprocessing, including handling missing values, mapping categorical variables, and applying transformation techniques such as PCA and Standard Scaler.
 
-Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA):
 Explore the dataset with insightful visualizations using Matplotlib and Seaborn, gaining a better understanding of the underlying patterns and relationships in the data.
 
-Machine Learning Implementation
+# Machine Learning Implementation:
 Implement and compare various machine learning classifiers like Support Vector Machine, Decision Tree, Logistic Regression, and Random Forest. Visualize decision trees, estimator trees, and evaluate model performance.
 
-Evaluation Metrics
+# Evaluation Metrics:
 Assess the performance of the models using confusion matrices and accuracy metrics for both training and test sets. Gain insights into the predictive capabilities of each algorithm.
 
-Code Structure
+# Code Structure:
 Understand the organization of the codebase for easy navigation and replication of the analysis.
 
-Dependencies
-Python 3.x
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
+# Dependencies:
+- Python 3.x
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
